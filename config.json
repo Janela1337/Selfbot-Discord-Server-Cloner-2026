@@ -1,0 +1,21 @@
+{
+    "__comment__": "SELFBOT - Use seu token de usuário (não bot token!)",
+    "token": "Sua token de usuario aqui",
+    "prefix": "!clone",
+    "debug": true,
+    "clone_settings": {
+        "name_syntax": "%original%-copy",
+        "clone_delay": 0.5,
+        "clear_guild": true,
+        "guild_settings": true,
+        "icon": true,
+        "banner": true,
+        "roles": true,
+        "channels": true,
+        "categories": true,
+        "overwrites": true,
+        "emoji": true,
+        "stickers": false,
+        "webhooks": true
+    }
+}
